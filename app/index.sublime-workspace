@@ -1,0 +1,271 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"M",
+				"Trebuchet MS, Arial, Helvetica, sans-serif"
+			],
+			[
+				"C",
+				"Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"sp",
+				"span	Tag"
+			],
+			[
+				"ga",
+				"galleryElement"
+			],
+			[
+				"font-s",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pic",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"htlm",
+				"Set Syntax: HTML"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nathanirwin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nathanirwin/Documents/Code/_work/lmrh/mustahce_templates/mustache-see-also.html",
+		"/Users/nathanirwin/Documents/Code/_work/mlrh/mlrh_client.js",
+		"/Users/nathanirwin/Documents/Code/_work/lmrh/lmrh_server.js",
+		"/Users/nathanirwin/Documents/Code/_work/lmrh/lmrh_initialiser_file.js",
+		"/Users/nathanirwin/Documents/Code/taco_thursday/seasonins/quick_seasoning.md",
+		"/Users/nathanirwin/Documents/Code/taco_thursday/recipe_temp.mdown",
+		"/Users/nathanirwin/Documents/Code/taco_thursday/complete tacos/Shambhala_tacos.mdown",
+		"/Users/nathanirwin/Documents/Code/taco_thursday/fillins/Slow-cooker_pulled_pork.mdown",
+		"/Users/nathanirwin/Documents/Code/taco_thursday/fillins/slaw.md",
+		"/Users/nathanirwin/Documents/Code/taco_thursday/fixins/avocado_smash.md",
+		"/Users/nathanirwin/Documents/Code/taco_thursday/picodegallo_pineapple.mdown",
+		"/Users/nathanirwin/Documents/Code/taco_thursday/fixins/simple_salsa.mdown",
+		"/Users/nathanirwin/Documents/Code/taco_thursday/Mexican_corn_cobs.mdown",
+		"/Users/nathanirwin/Documents/Code/vagrant_dev/sass/dev_gallery/PhotoSwipe/website/index.html",
+		"/Users/nathanirwin/Documents/Code/vagrant_dev/sass/www/homepage_kym.php",
+		"/Users/nathanirwin/Documents/Code/vagrant_dev/puphpet/config.yaml",
+		"/Users/nathanirwin/.ssh/config",
+		"/Users/nathanirwin/Documents/Code/node_app/node_express_app/Gruntfile.js",
+		"/Users/nathanirwin/Documents/Code/vagrant_dev/sass/www/wifi-login-inline-css.php",
+		"/private/etc/hosts"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"&",
+			"teaspoon",
+			"tablespoon",
+			"dev",
+			"inva",
+			".wif"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&amp;",
+			"tsp",
+			"Tbsp"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
